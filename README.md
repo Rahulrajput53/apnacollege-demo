@@ -1,4 +1,4 @@
 # apnacollege-demo
-this is my first git repository
-<b>
+This is my first Git Repository
+<br>
 Author - Rahul Rajput
